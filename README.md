@@ -1,1 +1,2 @@
-# python_practic
+#python_practic
+pythonとGithubの学習成果を残すために作成
